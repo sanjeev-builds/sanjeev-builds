@@ -1,40 +1,194 @@
-<h1 align="center">Hi 👋, I'm Sanjeev Kumar</h1>
-<h3 align="center">AI & ML Engineer | LLMs • Agentic AI • RAG Systems | B.Tech AIML @ REVA University</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeev-builds&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeev-builds" /> </p>
+<!-- Animated typing header -->
+<a href="https://github.com/sanjeev-builds">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sanjeev+Kumar+%F0%9F%91%8B;AI+%26+ML+Engineer;LLMs+%E2%80%A2+Agentic+AI+%E2%80%A2+RAG+Systems;Building+AI+that+ships+to+production." alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on **Atomota.ai**
+<br/>
 
-- 🌱 I’m currently learning **LangGraph, Agentic AI, System Design, Advanced DSA**
-
-- 👯 I’m looking to collaborate on **Agentic AI & RAG Applications**
-
-- 🤝 I’m looking for help with **MLOps Deployment and Distributed AI Systems**
-
-- 👨‍💻 All of my projects are available at [soon available.....](soon available.....)
-
-- 💬 Ask me about **Python, Machine Learning, LLMs, RAG, FastAPI, Next.js**
-
-- 📫 How to reach me **sanjeev.kumar192026@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/11R99VogYmm-GkUT5jZlrYTiF1wgx72qp/view?usp=drive_link](https://drive.google.com/file/d/11R99VogYmm-GkUT5jZlrYTiF1wgx72qp/view?usp=drive_link)
-
-- ⚡ Fun fact **🚀 Fun fact: I enjoy building AI solutions that solve real-world problems—from product intelligence to smart-city analytics.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/sanjeev.1_8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanjeev.1_8" height="30" width="40" /></a>
-<a href="https://discord.gg/viperstorm8558" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="viperstorm8558" height="30" width="40" /></a>
+<!-- Tagline -->
+<p>
+  <strong>B.Tech CSE (AI & ML) · REVA University · 2027</strong><br/>
+  <sub>I build production-grade AI systems — from Agentic RAG pipelines to real-time Computer Vision.</sub>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<br/>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/sanjeevkumar21083"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sanjeevkumar21083" /></a></p><br><br>
+<!-- CTA Buttons -->
+<a href="https://drive.google.com/file/d/11R99VogYmm-GkUT5jZlrYTiF1wgx72qp/view?usp=drive_link">
+  <img src="https://img.shields.io/badge/Resume-View%20PDF-6366F1?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/sanjeev-kumar">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://github.com/sanjeev-builds">
+  <img src="https://img.shields.io/badge/GitHub-@sanjeev--builds-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="mailto:sanjeev.kumar192026@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjeev-builds&show_icons=true&locale=en&layout=compact" alt="sanjeev-builds" /></p>
+<br/><br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjeev-builds&show_icons=true&locale=en" alt="sanjeev-builds" /></p>
+<!-- Profile views -->
+<img src="https://komarev.com/ghpvc/?username=sanjeev-builds&style=flat-square&color=6366F1&label=Profile+Views" alt="profile views"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeev-builds&" alt="sanjeev-builds" /></p>
+</div>
+
+---
+
+## ⚡ What I'm Working On
+
+```text
+🔨 Building    →  Atomota.ai          (stealth AI product)
+📖 Learning    →  LangGraph · Advanced DSA · System Design
+🤝 Open to     →  Agentic AI & RAG collaborations
+🎯 Targeting   →  Software & AI Engineering Internships (2025)
+```
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 [ClariCart](https://github.com/sanjeev-builds/claricart)
+**LLM-powered product intelligence platform**
+
+An Agentic RAG system that gives users real-time, grounded product analysis — with a Devil's Advocate mode that challenges purchase decisions.
+
+`Gemini API` `LangChain` `LangGraph` `ChromaDB` `FastAPI` `Next.js`
+
+![Deployed](https://img.shields.io/badge/Status-Deployed-22C55E?style=flat-square)
+![Vercel](https://img.shields.io/badge/Vercel-Live-000000?style=flat-square&logo=vercel)
+![Railway](https://img.shields.io/badge/Railway-Live-0B0D0E?style=flat-square&logo=railway)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌆 [NammaFlow AI](https://github.com/sanjeev-builds/nammaflow-ai)
+**Smart city congestion prediction for Bengaluru**
+
+Full-stack real-time traffic management platform with AI forecasting, live TomTom data pipeline, and network-aware routing using osmnx/NetworkX.
+
+`FastAPI` `Next.js` `TomTom API` `osmnx` `NetworkX` `AWS`
+
+![Deployed](https://img.shields.io/badge/Status-Deployed-22C55E?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-Live-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 [Nexus Sentinel](https://github.com/sanjeev-builds/nexus-sentinel)
+**Real-time weapon detection system**
+
+Open-source Computer Vision surveillance system using YOLOv8 for real-time threat identification in video streams.
+
+`YOLOv8` `OpenCV` `Python` `Computer Vision`
+
+![Open Source](https://img.shields.io/badge/Open%20Source-✓-6366F1?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧭 [AI Career Coach](https://github.com/sanjeev-builds/ai-career-coach)
+**LLM-powered career guidance platform**
+
+Resume analysis and career roadmap generation tool with AI-driven feedback, built with React and FastAPI.
+
+`FastAPI` `React` `LLMs` `Python`
+
+![In Progress](https://img.shields.io/badge/Status-In%20Progress-F59E0B?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,ts&theme=dark)](https://skillicons.dev)
+
+**AI / ML**
+
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark)](https://skillicons.dev)
+
+**Web & Backend**
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,fastapi,nodejs&theme=dark)](https://skillicons.dev)
+
+**Data & Databases**
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb&theme=dark)](https://skillicons.dev)
+
+**DevOps & Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=docker,git,linux,aws,tailwind&theme=dark)](https://skillicons.dev)
+
+**AI Frameworks & Libraries**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-6366F1?style=for-the-badge&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=sanjeev-builds&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=38BDF8&text_color=94A3B8" alt="Sanjeev's GitHub Stats"/>
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev-builds&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=94A3B8" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeev-builds&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=38BDF8&currStreakLabel=6366F1" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 💼 LinkedIn | [linkedin.com/in/sanjeev-kumar](https://linkedin.com/in/sanjeev-kumar) |
+| 📧 Email | [sanjeev.kumar192026@gmail.com](mailto:sanjeev.kumar192026@gmail.com) |
+| 💻 GitHub | [@sanjeev-builds](https://github.com/sanjeev-builds) |
+| 📄 Resume | [View PDF](https://drive.google.com/file/d/11R99VogYmm-GkUT5jZlrYTiF1wgx72qp/view?usp=drive_link) |
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>If my work has helped you or sparked an idea, a coffee goes a long way ☕</sub>
+
+<br/>
+
+<a href="https://ko-fi.com/sanjeevkumar21083">
+  <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" alt="Buy me a coffee"/>
+</a>
+
+<br/><br/>
+
+<sub>⚡ <em>Building AI that ships. Open to internship opportunities at product-based companies.</em></sub>
+
+</div>
