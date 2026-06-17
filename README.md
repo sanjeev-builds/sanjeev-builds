@@ -2,7 +2,7 @@
 
 <!-- Animated typing header -->
 <a href="https://github.com/sanjeev-builds">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sanjeev+Kumar+%F0%9F%91%8B;AI+%26+ML+Engineer;LLMs+%E2%80%A2+Agentic+AI+%E2%80%A2+RAG+Systems; Building+AI+that+ships+to+production." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sanjeev+Kumar+%F0%9F%91%8B;AI+%26+ML+Engineer;LLMs+%E2%80%A2+Agentic+AI+%E2%80%A2+RAG+Systems;Building+AI+that+ships+to+production." alt="Typing SVG" />
 </a>
 
 <br/>
