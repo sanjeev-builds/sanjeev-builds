@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Resume-View%20PDF-6366F1?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/sanjeev-kumar">
+<a href="https://www.linkedin.com/in/sanjeev-kumar-11836a345/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
