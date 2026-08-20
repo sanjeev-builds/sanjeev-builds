@@ -150,13 +150,9 @@ Resume analysis and career roadmap generation tool with AI-driven feedback, buil
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sanjeev-builds&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=38BDF8&text_color=94A3B8" alt="Sanjeev's GitHub Stats"/>
+<img height="160" src="https://github-stats-extended.vercel.app/api?username=sanjeev-builds&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=38BDF8&text_color=94A3B8" alt="Sanjeev's GitHub Stats"/>
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev-builds&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=94A3B8" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeev-builds&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=38BDF8&currStreakLabel=6366F1" alt="GitHub Streak"/>
+<img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sanjeev-builds&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=94A3B8" alt="Top Languages"/>
 
 </div>
 
