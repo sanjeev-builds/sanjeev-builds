@@ -47,7 +47,7 @@
 🔨 Building    →  Atomota.ai          (stealth AI product)
 📖 Learning    →  LangGraph · Advanced DSA · System Design
 🤝 Open to     →  Agentic AI & RAG collaborations
-🎯 Targeting   →  Software & AI Engineering Internships (2025)
+🎯 Targeting   →  Software & AI Engineering Internships (2026)
 ```
 
 ---
